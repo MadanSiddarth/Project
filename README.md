@@ -21,16 +21,16 @@ A responsive multi-page website for Little Taco Shop, built using HTML5 and CSS3
 ## Screenshots
 
 ### Menu Page
-![Menu Page](screenshots/menu.png)
+![Menu Page](HTML-CSS-Project/screenshots/menu.png)
 
 ### About Page
-![About Page](screenshots/about.png)
+![About Page](HTML-CSS-Project/screenshots/about.png)
 
 ### Opening Hours Page
-![Opening Hours Page](screenshots/hours.png)
+![Opening Hours Page](HTML-CSS-Project/screenshots/hours.png)
 
 ### Contact Page
-![Contact Page](screenshots/contact.png)
+![Contact Page](HTML-CSS-Project/screenshots/contact.png)
 
 ## Project Structure
 
